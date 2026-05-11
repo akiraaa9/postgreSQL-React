@@ -379,3 +379,5 @@ http://localhost:3000
 - Express.js backend running successfully
 - React frontend successfully running
 - Frontend connected to backend API
+
+**Aditya Oki Ramadhan**
