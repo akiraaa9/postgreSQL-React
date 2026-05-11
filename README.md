@@ -154,7 +154,7 @@ Run the installer and follow these steps:
 Example:
 
 ```text
-111006
+123456
 ```
 
 ⚠️ Remember the password because it will be used for database connection.
