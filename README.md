@@ -380,4 +380,6 @@ http://localhost:3000
 - React frontend successfully running
 - Frontend connected to backend API
 
-**Aditya Oki Ramadhan**
+---
+
+_Aditya Oki Ramadhan_
